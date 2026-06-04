@@ -29,9 +29,10 @@ The goal of this project is to make career planning easier and more personalized
 
 ## Future Features
 
-- Personalized AI roadmaps
-- Resume analysis
-- Interview preparation
-- Learning resource recommendations
-- AI-powered chatbot mentor
-- Progress tracking dashboard
+## Version 2 Features
+
+- Career goal selection
+- Current skill assessment
+- Skill-gap analysis
+- Personalized learning recommendations
+- Project suggestions based on missing skills
