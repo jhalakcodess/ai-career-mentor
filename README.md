@@ -36,3 +36,11 @@ The goal of this project is to make career planning easier and more personalized
 - Skill-gap analysis
 - Personalized learning recommendations
 - Project suggestions based on missing skills
+
+- ## Version 3 Features
+
+- Skill gap analysis
+- Personalized roadmap generation
+- Project recommendations
+- Estimated learning duration
+- AI mentor guidance
